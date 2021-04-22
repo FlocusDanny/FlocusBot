@@ -1,0 +1,24 @@
+{
+ "name": "Flocus",
+ "version": "1.0.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+  "start": "node index.js"
+ },
+ "engines": {
+  "node": "12.x"
+ },
+ "author": "",
+ "license": "ISC",
+ "dependencies": {
+  "danbot-hosting": "^0.1.6",
+  "dbd.db": "^1.4.5",
+  "dbd.js": "^3.0.6",
+  "dbdjs.db": "^1.0.1",
+  "dbdjs.mongo": "^1.0.1",
+  "keepalive": "^3.0.0",
+  "mongoose": "^5.12.5",
+  "quick.db": "^7.1.3"
+ }
+}
